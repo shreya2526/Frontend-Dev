@@ -2,7 +2,7 @@
 
 Welcome to PetNest, a pet care website designed to enhance the experience of pet owners. This project is built with HTML, CSS, and JavaScript, focusing on a clean and visually appealing interface that is both user-friendly and functional.
 
-![First page](image/1.jpg)
+![First page](image/1.png)
 
 <h2>Features</h2>
 
@@ -10,19 +10,23 @@ Welcome to PetNest, a pet care website designed to enhance the experience of pet
 
 Showcasing a range of pet products with easy-to-navigate categories, ensuring a seamless browsing experience.
 
-![2nd page](image/2.jpg)
+![2nd page](image/2.png)
 
 <h4>📱 Responsive Design</h4>
 
 Designed to work flawlessly across different devices, providing an optimal viewing experience on desktops, tablets, and smartphones.
 
+<h5>Smartphone view</h5>
 
+![mobile page](image/4.png)
+
+<h5>Tablet view</h5>
+
+![tab page](image/5.png)
 
 <h4>⚡ Dynamic Elements</h4>
 
 JavaScript-powered interactivity enhances user experience, including real-time updates and engaging animations.
-
-
 
 <h2>Tech Stack</h2>
 
