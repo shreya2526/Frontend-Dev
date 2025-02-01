@@ -38,7 +38,7 @@ JavaScript – Enhancing interactivity and functionality
 
 <h2>🚀 Live Demo</h2>
 
-Check out the live version of PetNest here: https://shreya2526.github.io/PetNest/  
+Check out the live version of project here:   <a href="https://shreya2526.github.io/PetNest/" target="blank">PetNest</a>
 
 <h2>📌 About the Project</h2>
 
