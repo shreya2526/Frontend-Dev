@@ -10,7 +10,7 @@ Welcome to PetNest, a pet care website designed to enhance the experience of pet
 
 Showcasing a range of pet products with easy-to-navigate categories, ensuring a seamless browsing experience.
 
-![2nd page](image/2.png)
+![2nd page](image/6.png)
 
 <h4>📱 Responsive Design</h4>
 
